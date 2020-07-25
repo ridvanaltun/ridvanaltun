@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hey, I'm [Rıdvan](https://ridvanaltun.github.io/) 👋
 
 [![Twitter Badge](https://img.shields.io/badge/-@ridvaltun-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ridvaltun)](https://twitter.com/ridvaltun) [![Linkedin Badge](https://img.shields.io/badge/-ridvanaltun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/ridvanaltun/)
