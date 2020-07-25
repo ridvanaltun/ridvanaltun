@@ -2,7 +2,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@ridvaltun-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ridvaltun)](https://twitter.com/ridvaltun) [![Linkedin Badge](https://img.shields.io/badge/-ridvanaltun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/ridvanaltun/)
 
-I'm a self-taught web and mobile devoloper from Turkey.
+I'm a self-taught web and mobile developer from Turkey.
 
 - 🔭 I’m currently working as freelancer
 - 🌱 I’m currently learning GraphQL & Django REST Framework
