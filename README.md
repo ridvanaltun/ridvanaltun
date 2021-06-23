@@ -1,22 +1,16 @@
-# Hey, I'm Rıdvan 👋
+<img align="right" src="https://github.com/ridvanaltun/ridvanaltun/blob/master/illustration.jpg" alt="Illustration of Rıdvan Altun at work" width=370px height=auto/>
 
-[![Twitter Badge](https://img.shields.io/badge/-@ridvaltun-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ridvaltun)](https://twitter.com/ridvaltun)
-[![Linkedin Badge](https://img.shields.io/badge/-ridvanaltun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/ridvanaltun/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ridvaltun@gmail.com)](mailto:ridvaltun@gmail.com)
+### Hey, I'm Rıdvan 👋
 
-[![ridvanaltun's github stats](https://github-readme-stats.vercel.app/api?username=ridvanaltun&show_icons=true&hide=contribs,issues)](https://github.com/ridvanaltun)
+[![Website](https://img.shields.io/badge/ridvanaltun.github.io-UP-green?logo=link&style=for-the-badge)](https://ridvanaltun.github.io/)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridvanaltun/)
+[![Visits Badge](https://badges.pufler.dev/visits/ridvanaltun/ridvanaltun?style=for-the-badge)](https://github.com/ridvanaltun/ridvanaltun)
+<br><br>
 
-I'm a self-taught web and mobile developer from Turkey.
+Competent and confident about web technologies. Worked on JavaScript almost 2 years, can code React applications, Express APIs and React Native applications. Also can code Django and Flask in Python. Loves solving coding challenges, started coding at 11 as a hobby and turned into a career.
 
-- 🔭 I’m currently working as freelancer
-- 🌱 I’m currently learning GraphQL & Django REST Framework
-- 💬 Ask me about [here](https://github.com/ridvanaltun/ridvanaltun/issues)
-
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+- 📱 I’m currently working as a React Developer.
+- 🤓 I’m currently learning GraphQL.
+- 💬 Ask me [anything](https://github.com/ridvanaltun/ridvanaltun/issues)
+- 📫 How to reach me: [ridvanaltun@outlook.com](mailto:ridvanaltun@outlook.com?subject=[GitHub]%20Your%20Title)
+- 🧑‍🎤 Fun fact: Addicted to skating!
