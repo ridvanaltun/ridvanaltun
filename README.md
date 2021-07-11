@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridvanaltun/)
 <br><br>
 
-Competent and confident about web technologies. Worked on JavaScript almost 2 years, can code React applications, Express APIs and React Native applications. Also can code Django and Flask in Python. Loves solving coding challenges, started coding at 11 as a hobby and turned into a career.
+Competent and confident about web technologies. Worked on JavaScript for almost two years, can code React applications, Express APIs, and React Native applications. Also can code Django and Flask in Python. Loves solving coding challenges. Started coding at 11 as a hobby and turned it into a career.
 
 - 📱 I’m currently working as a React Developer.
 - 🤓 I’m currently learning GraphQL.
