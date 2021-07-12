@@ -12,4 +12,5 @@ Competent and confident about web technologies. Worked on JavaScript for almost 
 - 🤓 I’m currently learning GraphQL.
 - 💬 Ask me [anything](https://github.com/ridvanaltun/ridvanaltun/issues)
 - 📫 How to reach me: [ridvanaltun@outlook.com](mailto:ridvanaltun@outlook.com?subject=[GitHub]%20Your%20Title)
-- 🧑‍🎤 Fun fact: Addicted to skating!
+
+> I'd be happy to meet new developers and expand my network.
